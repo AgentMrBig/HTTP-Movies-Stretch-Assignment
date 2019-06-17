@@ -14,6 +14,8 @@ body {
   cursor: pointer;
   position: relative;
   margin: 1rem auto;
+  color: black;
+  text-decoration: none;
 }
 
 .movie-director {
@@ -34,6 +36,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  color: black;
+  text-decoration: none;
 }
 
 .saved-list h3 {
@@ -74,4 +78,12 @@ body {
 .movie-warning {
   color: red;
   text-align: center;
+}
+
+.movie-detials{
+  text-decoration: none;
+}
+
+.link{
+  text-decoration: none;
 }
